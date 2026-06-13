@@ -32,4 +32,4 @@ This project analyzes Superstore sales data to identify sales trends, profit per
 ## Author
 Rakshitha Selvan
 ## Dashboard Preview
-![Dashboard](Screenshot 2026-06-07 095711.png)
+![Dashboard](dashboard.png)
